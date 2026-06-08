@@ -1,0 +1,21 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+faiss_index/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
