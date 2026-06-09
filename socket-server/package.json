@@ -12,4 +12,20 @@
     "typescript": "^5.4.0",
     "tsconfig-paths": "^4.2.0"
   }
+  {
+  "name": "cipher-socket-server",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "start": "ts-node -r tsconfig-paths/register index.ts"
+  },
+  "dependencies": {
+    "dotenv": "latest",
+    "openai": "^4.47.0",
+    "socket.io": "^4.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0",
+    "tsconfig-paths": "^4.2.0"
+  }
+}
 }
