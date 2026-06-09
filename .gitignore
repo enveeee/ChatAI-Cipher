@@ -19,3 +19,11 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+node_modules/
+.next/
+.env
+.env.local
+dist/
+.dist/
+*.log
